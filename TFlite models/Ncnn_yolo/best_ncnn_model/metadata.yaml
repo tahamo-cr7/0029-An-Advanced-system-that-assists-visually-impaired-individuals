@@ -1,0 +1,17 @@
+description: Ultralytics best model trained on /content/drive/MyDrive/Custom_YOLOv7/yolov7/data/custom_data.yaml
+author: Ultralytics
+date: '2025-04-14T00:48:52.730474'
+version: 8.3.70
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Egyptian Currency
+args:
+  batch: 1
+  half: false
